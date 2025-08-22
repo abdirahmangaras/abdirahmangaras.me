@@ -63,6 +63,13 @@ main {
   overflow: hidden;
 }
 
+.hero-content h2 {
+  text-align: justify !important;
+}
+
+p {
+  text-align: justify !important;
+}
 body {
   color: var(--main-color);
   background: var(--body-background);
